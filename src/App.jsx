@@ -16,6 +16,7 @@ function App() {
                 <li><a href="#services">Services</a></li>
                 <Button buttonText = "Jonathan" number = "2" />
             </ul>
+            <Button />
         </nav>
       </header>
     </>
